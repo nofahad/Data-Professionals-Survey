@@ -6,7 +6,7 @@
 
 Power BI dashboard, which presents a survey of Data Professionals and offers useful insights into their salaries, preferred programming languages (such as SQL, Python, and RStudio), work-life balance, whether they switched their career from another field and how difficult they found it to break into the field of Data. Individuals who wish to improve their understanding of the industry, can gain valuable insights from this data. The results of the analysis are particularly fascinating since they are derived from actual data.
 
-Data Source: [Raw Dataset] (https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx)
+Data Source: [Raw Dataset](https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx)
 
 ### Analysis:
 
